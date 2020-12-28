@@ -4,7 +4,6 @@ date: 2020-06-06T01:22:55.506Z
 title: Awesome Images & Shit
 description: Fix for gatsby-plugin-mdx and gatsby-remark-images
 ---
-
 ![Great Gatsby](/../assets/great2.jpg "Great Gatsby")
 
 ## Netlify CMS Media Configuration
@@ -14,6 +13,7 @@ First, in your `static/admin/config.yml`, make sure you have the following:
 ```
 media_folder: content/assets
 public_folder: ../assets
+src_folder: ../src
 ```
 
 Docs: https://www.netlifycms.org/docs/configuration-options/#media-and-public-folders.
