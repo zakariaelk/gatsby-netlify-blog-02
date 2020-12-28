@@ -8,7 +8,7 @@ description: Fix for gatsby-plugin-mdx and gatsby-remark-images
 
 ## Netlify CMS Media Configuration
 
-First, in your `static/admin/config.yml`, make sure you have the following:
+First, in your `static/admin/config.yml`, make sure you have the followings:
 
 ```
 media_folder: content/assets
